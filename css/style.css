@@ -1,0 +1,4 @@
+.img1 {
+    background-image: linear-gradient(to bottom left, rgba(228, 221, 221, 0.50) 10%, rgba(0, 0, 0, 0.80) 60%),
+        url(images/cover/cover-1.png);
+}
